@@ -8,8 +8,8 @@ This project is a really small and easy one, focused on practise JavaScript. Whe
 <h2>Languages and Utilities Used</h2>
 
 <b>HTML</b> 
-- <b>CSS</b>
-- <b>JavaScript</b>
+<b>CSS</b>
+<b>JavaScript</b>
 
 <h2>Environments Used </h2>
 
