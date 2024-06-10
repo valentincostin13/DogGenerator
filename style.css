@@ -1,0 +1,20 @@
+body {
+    background-color: pink !important;
+    font-family: "Lucida Handwriting","Brush Script MT", cursive !important;
+    margin-top: 40px !important;
+}
+
+.container-1 {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.flex-box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.flex-box img {
+    padding: 10px;
+}
