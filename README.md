@@ -7,13 +7,13 @@ This project is a really small and easy one, focused on practise JavaScript. Whe
 
 <h2>Languages and Utilities Used</h2>
 
-<b>HTML</b> 
-<b>CSS</b>
+<b>HTML-</b> 
+<b>CSS-</b>
 <b>JavaScript</b>
 
 <h2>Environments Used </h2>
 
-- <b>Visual Studio Code</b>
+<b>Visual Studio Code</b>
 
 <h2>Program walk-through:</h2>
 
